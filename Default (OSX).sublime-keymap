@@ -1,0 +1,17 @@
+[
+    { "keys": ["super+shift+l"],
+      "command": "insert_snippet",
+      "args": {
+        "contents": "console.log(${1:}$SELECTION);${0}"
+      }
+    },
+    { "keys": ["super+shift+k"],
+      "command": "insert_snippet",
+      "args": {
+        "contents": "{/* ${1:}$SELECTION */}${0} "
+      }
+    },
+    { "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} },
+    { "keys": ["super+v"], "command": "paste_and_indent" },
+		{ "keys": ["super+shift+v"], "command": "paste" }
+]

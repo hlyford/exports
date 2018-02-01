@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"ES6-Toolkit",
+		"Golang Build",
+		"JSHint",
+		"JSLint",
+		"Package Control",
+		"React Templates",
+		"ReactJS",
+		"Sass",
+		"Six - Future JavaScript Syntax",
+		"Sublime Tutor",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-contrib-scss-lint",
+		"Theme - Brogrammer"
+	]
+}

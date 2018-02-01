@@ -1,0 +1,15 @@
+{
+  "color_scheme": "Packages/User/SublimeLinter/brogrammer (SL).tmTheme",
+  "font_size": 16,
+  "ignored_packages":
+  [
+    "SublimeLinter-contrib-sass-lint",
+    "TypeScript",
+    "Vintage"
+  ],
+  "preview_on_click": true,
+  "tab_size": 2,
+  "theme": "Brogrammer.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
